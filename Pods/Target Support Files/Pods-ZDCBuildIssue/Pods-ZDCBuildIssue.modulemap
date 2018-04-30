@@ -1,0 +1,6 @@
+framework module Pods_ZDCBuildIssue {
+  umbrella header "Pods-ZDCBuildIssue-umbrella.h"
+
+  export *
+  module * { export * }
+}
